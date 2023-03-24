@@ -10,5 +10,4 @@ Ergast API : https://www.ergast.com
 
 # Install and run the project
 
-npm install
 npm run dev
