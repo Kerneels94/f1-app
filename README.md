@@ -4,10 +4,10 @@
 
 # Technologies used:
 
-1.Vite to setup React
-1.Tailwind Css
-1.Ergast API : https://www.ergast.com
+1. Vite to setup React
+2. Tailwind Css
+3. Ergast API : https://www.ergast.com
 
 # Install and run the project
 
-npm run dev
+`npm run dev`
